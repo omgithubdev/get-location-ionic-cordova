@@ -7,8 +7,8 @@ getting user's location(latitude, longitude) in ionic using cordovaGeolocation f
 2. install ngCordova by following:
  bower install ngCordova
  
-3. add the following script
- <script src="lib/ngCordova/dist/ng-cordova.js"></script>
+3. add the following script src:
+ lib/ngCordova/dist/ng-cordova.js
 
 4. add the code in code.js file 
 
